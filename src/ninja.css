@@ -1,0 +1,9 @@
+
+.lista {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    padding-right: 20px;
+}
